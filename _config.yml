@@ -1,8 +1,10 @@
 title: Kieta
 subtitle: All hope is gone
 author: demo
+github_username: jekyll
 
-# Build settings
+gems:
+  - jekyll-avatar
 markdown: kramdown
 exclude:
   - Gemfile
