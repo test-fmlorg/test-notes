@@ -1,0 +1,9 @@
+title: Kieta
+subtitle: All hope is gone
+author: demo
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
