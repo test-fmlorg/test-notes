@@ -1,59 +1,59 @@
 ---
 ---
 
-//@import "bootstrap";
+@import 'tocbot-core';
+@import 'toc';
+@import 'tweek';
 
 body {
     position: relative;
 }
 
-section.navbar-top {
-    margin: 0;
+.bg-theme-color {
+    background: {{ site.color }};
 }
 
-.jumbotron {
-    padding: 60px 0;
-    background: limegreen;
-    color: white;
-    margin: 0;
+.text-theme-color {
+    color: {{ site.color }} !important;
 }
 
-main {
-    padding-top: 20px;
+.text-black {
+    color: black;
+}
+.bg-white {
+    background: white;
 }
 
-.sidebar div {
-    margin: 10px 0;
-}
-
-.toolbar {
-    height: 40px;
+main article {
+    h1 {
+        border-bottom: solid 3px gainsboro;
+    }
+    h2 {
+        border-bottom: solid 1px gainsboro;
+    }
 }
 
 .navbar {
     border-bottom: 1px solid #eee;
 }
-/* Table of Contents */
 
-@import "bootstrap-toc";
-
-#toc {
-  position: relative;
-}
-#toc.fixed {
-  position: fixed;
-  top: 20px;
+.share {
+    border-top: solid 6px lightgray;
 }
 
-/* Footer */
-
-footer.footer {
-  bottom: 0;
-  width: 100%;
-  height: 120px;
+[id^=___plusone] {
+  width:65px !important;
 }
 
-.category {
+.fb_iframe_widget > span {
+  vertical-align: baseline !important;
+}
+
+.pocket-btn {
+  display: inline-block;
+}
+
+.tag {
     background: lightgrey;
     color: black;
     outline: none;
