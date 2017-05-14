@@ -1,13 +1,11 @@
 title: Kieta
 subtitle: All hope is gone
 author: mzyy94
-github:
-  username: mzyy94
 twitter:
   username: mzyy94
 color: limegreen
+branch: gh-pages
 
-baseurl: ""
 permalink: /items/:title
 search_engine: https://www.google.com/search
 paginate: 5 
