@@ -3,7 +3,7 @@ subtitle: technical tips and poems.
 author: Ken'ichi Fukamachi
 twitter:
   username: fukachan_fmlorg
-disqus: fmlorg
+disqus: 
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
