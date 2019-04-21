@@ -26,7 +26,7 @@ github.io は裏で ruby ベースの jekyll という仕組みを使ってい�
 [github](https://github.com/barryclark/jekyll-now)をクローンしてblogぽいページが40秒で出来ますけれども、さらにカスタマイズしようとすると意外と面倒というオチが…
 
 [www.jekyllnow.com](www.jekyllnow.com)
-[github](https://github.com/barryclark/jekyll-now)
+[github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now)
 
 
 ## jekyll-kieta
@@ -35,4 +35,4 @@ github.io は裏で ruby ベースの jekyll という仕組みを使ってい�
 
 :+1:
 
-[github](https://github.com/mzyy94/jekyll-kieta-theme)
+[github.com/mzyy94/jekyll-kieta-theme](https://github.com/mzyy94/jekyll-kieta-theme)
