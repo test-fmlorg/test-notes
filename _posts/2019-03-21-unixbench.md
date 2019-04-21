@@ -3,30 +3,17 @@ layout: post
 title: ByteBench と Unix-ByteBench コレクション
 tags:
 - benchmark
+- bytebench
+- unix-bytebench
 - netbsd
 - debian
 ---
 
-<!--
-上のメタデータに書くので、タイトルは不要なのかも？
-# ByteBench と Unix-ByteBench コレクション
---> 
+ベンチマークと言っても、あくまでも目安なので、正確さはあてにしないでご覧ください。上二桁くらいをみて、世代１と世代２で約N倍速いかを参考にする程度だとおもいます。
 
-ベンチマークと言っても、あくまでも目安なので、
-正確さはあてにしないでご覧ください。
-上二桁くらいをみて、
-世代１と世代２で約N倍速いかを参考にする程度だとおもいます。
+ByteBench (bytebench 4.0世代まで)と Unix-ByteBench (bytebench 5.0世代)は、基準のマシンが違うため、だいたいですがbytebench の値は unix-bytebench の 4 倍くらいの値になります。そこで、以下の表では、bytebenchの値は 1/4 に変換済です。
 
-ByteBench (bytebench 4.0世代まで)と Unix-ByteBench (bytebench 5.0世代)は、
-基準のマシンが違うため、だいたいですが
-bytebench の値は unix-bytebench の 4 倍くらいの値になります。
-そこで、以下の表では、bytebenchの値は 1/4 に変換済です。
-
-表の左端は、複数コアを考慮して補正した参考値です、
-bytebenchでは計測していないので、
-おおよそ2コアで三割増し、3コアで2倍速にしてあります(?つきの値)。
-Unix-ByteBench では、１コアと最大コア両方を計測するので、
-その値を書いてあります。
+表の左端は、複数コアを考慮して補正した参考値です、bytebenchでは計測していないので、おおよそ2コアで三割増し、3コアで2倍速にしてあります(?つきの値)。Unix-ByteBench では、１コアと最大コア両方を計測するので、その値を書いてあります。
 
 ## ByteBench
 
