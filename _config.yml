@@ -1,9 +1,9 @@
-title: Kieta
-subtitle: All hope is gone
-author: YOUR_NAME_OR_ID
+title: technotes.fml.org
+subtitle: technical tips and poems.
+author: Ken'ichi Fukamachi
 twitter:
-  username: YOUR_TWITTER_ID
-disqus: YOUR_DISQUS_SHORTNAME
+  username: fukachan_fmlorg
+disqus: fmlorg
 branch: master # where your github pages hosted branch
 
 permalink: /items/:title
