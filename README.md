@@ -2,12 +2,19 @@
 
 ## 使い方
 
-_post/ に markdown で記事を書いてください。
+1. drafts/ に準備稿を markdown で記事を書いてください。
 
 ```
-_post/
-      YYYY-MM-DD-CONTENT.md
+drafts/
+      YYYY-MM-DD-TITLE.md
       .... 
+
+1. リリースしてよくなったら、docs/_post/ に git mv してください
+
+```
+% git mv drafts /YYYY-MM-DD-TITLE.md docs/_post/
+% git commit
+% git push
 ```
 
 
