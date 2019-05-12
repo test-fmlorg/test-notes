@@ -9,7 +9,7 @@ name:   inverse
 class:  center, middle, inverse
 ---
 
-AsiaBSDCon 2019 のレポートです。
+AsiaBSDCon 2019 のレポート(元は**BSD花見2019(謎)**のスライド)です。
 
 ---
 ## そもそも AsiaBSDCon とは
