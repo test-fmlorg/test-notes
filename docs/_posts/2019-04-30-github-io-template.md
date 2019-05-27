@@ -22,14 +22,14 @@ Forkして、すぐに使える
 1. このリポジトリを github.com で Fork し、
    リポジトリ名を適宜、変更してください
 1. Settings で 
-    1. 「master branch docs/ folder」を選び github.io を有効にしてください
+    1. 「master branch docs/ folder」を選びgithub.ioを有効にしてください
     1. テーマは好きなものを選びます
-1. github.io が期待どおり見えているか動作確認をしてください
+1. github.ioが期待どおり見えているか動作確認をしてください
     - github.ioに反映されるまでに少し時間がかかります
 1. docs/ 以下を編集して使ってください。
     - docs/notes/slide.md などをコピーしてスライドを作成、
-      docs/index.html を編集(変更、追加など)して slide.htmlの引数に表示したいスライドを指定してください。
-1. git addしてgit commit、git pushすれば github.io に反映されるはずです
+      docs/index.htmlを編集し、slide.htmlの引数に表示したいスライドを指定してください。
+1. git addしてgit commit、git pushすればgithub.ioに反映されるはずです
    (注: github.ioの反映には少し時間がかかる場合があります)。
    ご確認ください
 
@@ -50,7 +50,4 @@ Forkして、すぐに使える
 
 ## 謝辞
 
-上の qiita の記事のオーナーさん、ありがとうございます。
-私は、
-これらを参考にして、
-fork するだけで使えるテンプレートになるよう再構成しました(しただけです)。
+上の qiita の記事のオーナーさん、ありがとうございます。私は、これらを参考にして、fork するだけで使えるテンプレートになるよう再構成しました(しただけです)。
