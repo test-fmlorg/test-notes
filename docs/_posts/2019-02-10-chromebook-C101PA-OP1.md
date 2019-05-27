@@ -11,7 +11,7 @@ Chromebook を持ち歩いて生活してみることにしました。単にブ
 ## 仕様
 
 **ASUS Chromebook ASUS C101PA-OP1**
-https://www.asus.com/jp/2-in-1-PCs/ASUS-Chromebook-Flip-C101PA/
+[ASUSの製品ページ](https://www.asus.com/jp/2-in-1-PCs/ASUS-Chromebook-Flip-C101PA/)
 
 |CPU|Rockchip Quad-Core RK3288C|
 |:----|----:|
