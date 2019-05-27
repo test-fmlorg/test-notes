@@ -28,7 +28,10 @@ https://github.com/fmlorg/slide-templates-on-githubio
     - github.ioに反映されるまでに少し時間がかかります
 1. docs/ 以下を編集して使ってください。
     - docs/notes/slide.md などをコピーしてスライドを作成、
-      docs/index.html を編集(変更、追加など)です。
+      docs/index.html を編集(変更、追加など)して slide.htmlの引数に表示したいスライドを指定してください。
+1. git addしてgit commit、git pushすれば github.io に反映されるはずです
+   (注: github.ioの反映には少し時間がかかる場合があります)。
+   ご確認ください
 
 
 ## 階層構造
@@ -48,5 +51,6 @@ https://qiita.com/natsumo/items/717e40de2c43824624b6
 ## 謝辞
 
 上の qiita の記事のオーナーさん、ありがとうございます。
+私は、
 これらを参考にして、
 fork するだけで使えるテンプレートになるよう再構成しました(しただけです)。
