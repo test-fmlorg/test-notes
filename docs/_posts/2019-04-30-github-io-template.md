@@ -14,7 +14,7 @@ Forkして、すぐに使える
 
 ## URL
 
-https://github.com/fmlorg/slide-templates-on-githubio
+[github.com/fmlorg/slide-templates-on-githubio](https://github.com/fmlorg/slide-templates-on-githubio)
 
 
 ## 使い方
@@ -43,9 +43,9 @@ https://github.com/fmlorg/slide-templates-on-githubio
 
 [remark.js](https://github.com/gnab/remark)
 
-https://qiita.com/opengl-8080/items/d44aec7c6c643996916b
+[qiita.com/opengl-8080/items/d44aec7c6c643996916b](https://qiita.com/opengl-8080/items/d44aec7c6c643996916b)
 
-https://qiita.com/natsumo/items/717e40de2c43824624b6
+[qiita.com/natsumo/items/717e40de2c43824624b6](https://qiita.com/natsumo/items/717e40de2c43824624b6)
 
 
 ## 謝辞
