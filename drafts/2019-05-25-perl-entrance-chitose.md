@@ -2,8 +2,10 @@
 layout: post
 title: Perl入学式in千歳 第一回
 tags:
+- Unix
 - Perl
 - Perl入学式
+- 入学式
 - 千歳
 ---
 
