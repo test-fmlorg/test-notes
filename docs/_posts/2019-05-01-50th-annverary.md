@@ -3,8 +3,8 @@ layout: post
 title: 西暦2019年に50周年のもの
 tags:
 - Unix
-- Python
-- Internet
+- python
+- インターネット
 ---
 
 UnixとARPANET、そしてMonty Pyhton's Flying Circusが50周年ですね！
