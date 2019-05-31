@@ -33,9 +33,8 @@ https://perl-entrance-chitose.connpass.com/
 
 [テキスト](http://www.perl-entrance.org/handout.html)はPerl入学式標準のものを使っています。
 
-なお、第一回の様子が、すでに togetter にまとめられています。御覧ください。
-第二回目以降も同じURLに**トゥギャって**いく予定です。
-https://togetter.com/li/1359270
+なお、第一回の様子が、すでに[togetter](https://togetter.com/li/1359270)にまとめられています。御覧ください。第二回目以降も同じURLに**トゥギャって**いく予定です。
+[https://togetter.com/li/1359270](https://togetter.com/li/1359270)
 
 姉妹編の[シェル入学式in千歳](https://technotes.fml.org/items/shell-entrance-chitose)もよろしくおねがいします。
 
