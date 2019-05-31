@@ -3,7 +3,7 @@ layout: post
 title: Perl入学式in千歳 第一回
 tags:
 - Unix
-- Perl
+- perl
 - Perl入学式
 - 入学式
 - 千歳
@@ -14,6 +14,8 @@ tags:
 なお、**政令指定都市以外**でのPerl入学式の開催は初めてだと思います。
 
 参加者のみなさま、二回目以降もよろしくおねがいします。
+
+またPerl入学式と平行で[シェル入学式in千歳](https://technotes.fml.org/items/shell-entrance-chitose)(Unixの考え方を学ぶ、サーバ構築運用管理、LPIC試験対策など)が開催されています。こちらもよろしくおねがいします。
 
 
 ## 背景(前回までのあらすじ)
@@ -34,6 +36,8 @@ https://perl-entrance-chitose.connpass.com/
 なお、第一回の様子が、すでに togetter にまとめられています。御覧ください。
 第二回目以降も同じURLに**トゥギャって**いく予定です。
 https://togetter.com/li/1359270
+
+姉妹編の[シェル入学式in千歳](https://technotes.fml.org/items/shell-entrance-chitose)もよろしくおねがいします。
 
 
 ## 余談
