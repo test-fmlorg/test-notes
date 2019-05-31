@@ -45,3 +45,5 @@ Perl入学式に準拠しています
 
 また、**Perl入学式in千歳**グループは、こちらのURLになります。こちらは全国で行われている**Perl入学式**シリーズの一つです。
 [https://perl-entrance-chitose.connpass.com/](https://perl-entrance-chitose.connpass.com/)
+
+なお、第一回の様子が、すでに[togetter](https://togetter.com/li/1360794)にまとめられています。御覧ください。第二回目以降も同じURLに**トゥギャって**いく予定です。
