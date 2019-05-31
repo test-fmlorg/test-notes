@@ -41,6 +41,9 @@ Perl入学式に準拠しています
 コンパスの**入学式in千歳**グループは、こちらのURLになります。シェル入学式は、このグループのイベントの一貫として行われています。
 [https://entrance-chitose.connpass.com/](https://entrance-chitose.connpass.com/)
 
+シェル入学式のテキストは、そのうち次のURLで公開する予定です。
+[https://github.com/fmlorg/shell-entrance](https://github.com/fmlorg/shell-entrance)
+
 また、**Perl入学式in千歳**グループは、こちらのURLになります。こちらは全国で行われている**Perl入学式**シリーズの一つです。
 [https://perl-entrance-chitose.connpass.com/](https://perl-entrance-chitose.connpass.com/)
 
