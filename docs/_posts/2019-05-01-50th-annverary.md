@@ -20,3 +20,8 @@ UnixとARPANET、そしてMonty Pyhton's Flying Circusが50周年ですね！
 - 1969の夏   Ken ThompsonがPDP7でUnixのプロトタイプを作った(1人月)
 - 1969/10/05 BBC Monty Pyhton's Flying Circus 放送開始
 - 1969/10/29 ARPANETでIMPを使った最初のメッセージが送信された
+
+
+## マイクロサービスって Unix をウエブ上に再実装したわけじゃないですか
+
+![UnixとLambda]({{ site.url }}/assets/figures/aws-lambda.png)
