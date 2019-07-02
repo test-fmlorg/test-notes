@@ -183,7 +183,11 @@ windows|5   |9   |74
 
 ### 作業時間の統計
 
-![OSのインストール〜OpenSSHまで]({{ site.url }}/assets/figures/netbsd-install-2019-server.png)
+
+![OSのインストール]({{ site.url }}/assets/figures/netbsd-install-2019-os.png)
+
+
+![ネットワークの設定〜OpenSSHまで]({{ site.url }}/assets/figures/netbsd-install-2019-server.png)
 
 
 
