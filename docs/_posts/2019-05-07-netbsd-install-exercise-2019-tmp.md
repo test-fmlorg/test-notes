@@ -2,6 +2,7 @@
 layout: post
 title: 帰ってきたNetBSDインストール演習
 tags:
+- osc
 - netbsd
 - インストール
 - 演習
