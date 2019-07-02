@@ -181,5 +181,17 @@ windows|5   |9   |74
     - シェル勉強会が入っていない時間にやってほしい。（5講時とか...）
 
 
+### 作業時間の統計
+
+![OSのインストール〜OpenSSHまで]({{ site.url }}/assets/figures/netbsd-install-2019-server.png)
+
+
+
+![ApacheとPostgreSQLをいれてCGIの作成]({{ site.url }}/assets/figures/netbsd-install-2019-namazon.png)
+
+
+
+
+
 ### 履歴
 
