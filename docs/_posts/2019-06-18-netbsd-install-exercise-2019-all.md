@@ -2,6 +2,7 @@
 layout: post
 title: NetBSDインストール演習の分析(大学の演習2019 vs OSC-2013,2014)
 tags:
+- osc 
 - netbsd
 - インストール
 - 演習
