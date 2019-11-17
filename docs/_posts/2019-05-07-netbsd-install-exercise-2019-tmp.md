@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 帰ってきたNetBSDインストール演習
-categories: [ tech, netbsd ]
+category: os
 tags:
 - osc
 - netbsd
