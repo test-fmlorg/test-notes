@@ -1,6 +1,9 @@
 ---
 layout: post
 title: NetBSDインストール演習の歴史(2013〜)
+categories:
+ - tech
+ - netbsd
 tags:
 - osc
 - netbsd
