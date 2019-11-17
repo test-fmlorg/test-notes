@@ -6,7 +6,7 @@ twitter:
 disqus: 
 branch: master # where your github pages hosted branch
 
-permalink: /:date
+# permalink: /:date
 search_engine: https://www.google.com/search
 paginate: 5
 paginate_path: "/page/:num"
