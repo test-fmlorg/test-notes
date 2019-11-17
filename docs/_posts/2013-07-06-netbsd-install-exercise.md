@@ -30,7 +30,7 @@ tags:
 - ... 中断 ...
 - 2018 ... 必修授業で強制的にNetBSD黒魔術の訓練が再開されました。
 - 2019 ... 必修授業で強制的にNetBSD黒魔術の訓練
-    - [OSC2019北海道むけの記事(暫定版)](https://technotes.fml.org/items/netbsd-install-exercise-2019-tmp)
+    - [OSC2019北海道むけの記事(暫定版)]({% post_url netbsd-install-exercise-2019-tmp %})
     - [日本NetBSDユーザ会BoFむけの記事(完全版)](https://technotes.fml.org/items/netbsd-install-exercise-2019-all)
 
 
